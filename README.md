@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Tarik 👋
 
-<!--
-**tbulbulusic/tbulbulusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer focused on modern web applications  
+⚛️ Working with Next.js, React, Tailwind CSS  
+🚀 Building scalable, structured and visually clean systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- HTML / CSS
+- JavaScript / TypeScript
+- React / Next.js
+- Tailwind CSS
+- Node.js
+- PHP
+- MySQL / MSSQL
+- GitHub
+
+---
+
+## 🚧 Projects
+
+### 🟢 Online
+- **PodiumBosnia** – structured real-world website focused on readability and long-term maintainability  
+- **Web-Domain.ba** – domain listing platform with multilingual support
+- **tarikbulbulusic.com** – modular portfolio system with focus on UI architecture and scalability  
+
+### 🟡 In Progress
+- **Dekoracije Anesa** – .... 
+
+### ⚫ Archived
+- **Sofelio** – internal business website (multi-page, service-based structure)  
+
+---
+
+## 🎯 Focus
+
+- Clean UI architecture  
+- Component-based design  
+- Scalable frontend systems  
+- Real-world usable applications  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/tbulbulusic
+- Portfolio: www.tarikbulbulusic.com
